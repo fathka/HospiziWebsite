@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# HospiziWebsite
 
 ## What is CodeIgniter?
 
